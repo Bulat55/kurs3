@@ -1,0 +1,1 @@
+SELECT * FROM kurs3.users;
